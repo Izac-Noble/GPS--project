@@ -1,0 +1,41 @@
+C:\Users\erobinet.CMCNET\Desktop\Solar System 5\Solar System\bin\Debug\Solar System.exe.config
+C:\Users\erobinet.CMCNET\Desktop\Solar System 5\Solar System\bin\Debug\Solar System.exe
+C:\Users\erobinet.CMCNET\Desktop\Solar System 5\Solar System\bin\Debug\Solar System.pdb
+C:\Users\erobinet.CMCNET\Desktop\Solar System 5\Solar System\obj\Debug\Solar System.csprojAssemblyReference.cache
+C:\Users\erobinet.CMCNET\Desktop\Solar System 5\Solar System\obj\Debug\Solar_System.Form1.resources
+C:\Users\erobinet.CMCNET\Desktop\Solar System 5\Solar System\obj\Debug\Solar_System.Properties.Resources.resources
+C:\Users\erobinet.CMCNET\Desktop\Solar System 5\Solar System\obj\Debug\Solar System.csproj.GenerateResource.cache
+C:\Users\erobinet.CMCNET\Desktop\Solar System 5\Solar System\obj\Debug\Solar System.csproj.CoreCompileInputs.cache
+C:\Users\erobinet.CMCNET\Desktop\Solar System 5\Solar System\obj\Debug\Solar System.exe
+C:\Users\erobinet.CMCNET\Desktop\Solar System 5\Solar System\obj\Debug\Solar System.pdb
+E:\Solar System 5\Solar System\bin\Debug\Solar System.exe.config
+E:\Solar System 5\Solar System\bin\Debug\Solar System.exe
+E:\Solar System 5\Solar System\bin\Debug\Solar System.pdb
+E:\Solar System 5\Solar System\obj\Debug\Solar System.csprojAssemblyReference.cache
+E:\Solar System 5\Solar System\obj\Debug\Solar_System.Form1.resources
+E:\Solar System 5\Solar System\obj\Debug\Solar_System.Properties.Resources.resources
+E:\Solar System 5\Solar System\obj\Debug\Solar System.csproj.GenerateResource.cache
+E:\Solar System 5\Solar System\obj\Debug\Solar System.csproj.CoreCompileInputs.cache
+E:\Solar System 5\Solar System\obj\Debug\Solar System.exe
+E:\Solar System 5\Solar System\obj\Debug\Solar System.pdb
+C:\Users\Nyiga12\Desktop\Solar System 5\Solar System\bin\Debug\Solar System.exe.config
+C:\Users\Nyiga12\Desktop\Solar System 5\Solar System\bin\Debug\Solar System.exe
+C:\Users\Nyiga12\Desktop\Solar System 5\Solar System\bin\Debug\Solar System.pdb
+C:\Users\Nyiga12\Desktop\Solar System 5\Solar System\obj\Debug\Solar System.csproj.AssemblyReference.cache
+C:\Users\Nyiga12\Desktop\Solar System 5\Solar System\obj\Debug\Solar System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nyiga12\Desktop\Solar System 5\Solar System\obj\Debug\Solar_System.Form1.resources
+C:\Users\Nyiga12\Desktop\Solar System 5\Solar System\obj\Debug\Solar_System.Properties.Resources.resources
+C:\Users\Nyiga12\Desktop\Solar System 5\Solar System\obj\Debug\Solar System.csproj.GenerateResource.cache
+C:\Users\Nyiga12\Desktop\Solar System 5\Solar System\obj\Debug\Solar System.csproj.CoreCompileInputs.cache
+C:\Users\Nyiga12\Desktop\Solar System 5\Solar System\obj\Debug\Solar System.exe
+C:\Users\Nyiga12\Desktop\Solar System 5\Solar System\obj\Debug\Solar System.pdb
+E:\GPS project\Solar System\bin\Debug\Solar System.exe.config
+E:\GPS project\Solar System\bin\Debug\Solar System.exe
+E:\GPS project\Solar System\bin\Debug\Solar System.pdb
+E:\GPS project\Solar System\obj\Debug\Solar_System.Form1.resources
+E:\GPS project\Solar System\obj\Debug\Solar_System.Properties.Resources.resources
+E:\GPS project\Solar System\obj\Debug\Solar System.csproj.GenerateResource.cache
+E:\GPS project\Solar System\obj\Debug\Solar System.csproj.CoreCompileInputs.cache
+E:\GPS project\Solar System\obj\Debug\Solar System.exe
+E:\GPS project\Solar System\obj\Debug\Solar System.pdb
+E:\GPS project\Solar System\obj\Debug\Solar System.csprojAssemblyReference.cache

@@ -1,0 +1,80 @@
+C:\Documents and Settings\erobinet\Desktop\Solar System\Solar System\bin\Debug\Solar System.exe
+C:\Documents and Settings\erobinet\Desktop\Solar System\Solar System\bin\Debug\Solar System.pdb
+C:\Documents and Settings\erobinet\Desktop\Solar System\Solar System\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\erobinet\Desktop\Solar System\Solar System\obj\Debug\Solar_System.Form1.resources
+C:\Documents and Settings\erobinet\Desktop\Solar System\Solar System\obj\Debug\Solar_System.Properties.Resources.resources
+C:\Documents and Settings\erobinet\Desktop\Solar System\Solar System\obj\Debug\Solar System.csproj.GenerateResource.Cache
+C:\Documents and Settings\erobinet\Desktop\Solar System\Solar System\obj\Debug\Solar System.exe
+C:\Documents and Settings\erobinet\Desktop\Solar System\Solar System\obj\Debug\Solar System.pdb
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 2\Solar System\obj\Debug\Solar System.exe
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 2\Solar System\obj\Debug\Solar System.pdb
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 2\Solar System\bin\Debug\Solar System.exe
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 2\Solar System\bin\Debug\Solar System.pdb
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 2\Solar System\obj\Debug\ResolveAssemblyReference.cache
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 2\Solar System\obj\Debug\Solar_System.Form1.resources
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 2\Solar System\obj\Debug\Solar_System.Properties.Resources.resources
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 2\Solar System\obj\Debug\Solar System.csproj.GenerateResource.Cache
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 3\Solar System\obj\Debug\Solar System.exe
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 3\Solar System\obj\Debug\Solar System.pdb
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 3\Solar System\bin\Debug\Solar System.exe
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 3\Solar System\bin\Debug\Solar System.pdb
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 3\Solar System\obj\Debug\ResolveAssemblyReference.cache
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 3\Solar System\obj\Debug\Solar_System.Form1.resources
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 3\Solar System\obj\Debug\Solar_System.Properties.Resources.resources
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 3\Solar System\obj\Debug\Solar System.csproj.GenerateResource.Cache
+C:\Documents and Settings\erobinet\Desktop\Solar System 3\Solar System\obj\Debug\Solar System.exe
+C:\Documents and Settings\erobinet\Desktop\Solar System 3\Solar System\obj\Debug\Solar System.pdb
+C:\Documents and Settings\erobinet\Desktop\Solar System 3\Solar System\bin\Debug\Solar System.exe
+C:\Documents and Settings\erobinet\Desktop\Solar System 3\Solar System\bin\Debug\Solar System.pdb
+C:\Documents and Settings\erobinet\Desktop\Solar System 3\Solar System\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\erobinet\Desktop\Solar System 3\Solar System\obj\Debug\Solar_System.Form1.resources
+C:\Documents and Settings\erobinet\Desktop\Solar System 3\Solar System\obj\Debug\Solar_System.Properties.Resources.resources
+C:\Documents and Settings\erobinet\Desktop\Solar System 3\Solar System\obj\Debug\Solar System.csproj.GenerateResource.Cache
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 4\Solar System\obj\Debug\Solar System.exe
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 4\Solar System\obj\Debug\Solar System.pdb
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 4\Solar System\bin\Debug\Solar System.exe
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 4\Solar System\bin\Debug\Solar System.pdb
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 4\Solar System\obj\Debug\ResolveAssemblyReference.cache
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 4\Solar System\obj\Debug\Solar_System.Form1.resources
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 4\Solar System\obj\Debug\Solar_System.Properties.Resources.resources
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 4\Solar System\obj\Debug\Solar System.csproj.GenerateResource.Cache
+C:\Documents and Settings\erobinet\Desktop\Solar System 4\Solar System\obj\Debug\Solar System.exe
+C:\Documents and Settings\erobinet\Desktop\Solar System 4\Solar System\obj\Debug\Solar System.pdb
+C:\Documents and Settings\erobinet\Desktop\Solar System 4\Solar System\bin\Debug\Solar System.exe
+C:\Documents and Settings\erobinet\Desktop\Solar System 4\Solar System\bin\Debug\Solar System.pdb
+C:\Documents and Settings\erobinet\Desktop\Solar System 4\Solar System\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\erobinet\Desktop\Solar System 4\Solar System\obj\Debug\Solar_System.Form1.resources
+C:\Documents and Settings\erobinet\Desktop\Solar System 4\Solar System\obj\Debug\Solar_System.Properties.Resources.resources
+C:\Documents and Settings\erobinet\Desktop\Solar System 4\Solar System\obj\Debug\Solar System.csproj.GenerateResource.Cache
+C:\Documents and Settings\erobinet.CMCNET\Desktop\Solar System 4\Solar System\obj\Debug\Solar System.exe
+C:\Documents and Settings\erobinet.CMCNET\Desktop\Solar System 4\Solar System\obj\Debug\Solar System.pdb
+C:\Documents and Settings\erobinet.CMCNET\Desktop\Solar System 4\Solar System\bin\Debug\Solar System.exe
+C:\Documents and Settings\erobinet.CMCNET\Desktop\Solar System 4\Solar System\bin\Debug\Solar System.pdb
+C:\Documents and Settings\erobinet.CMCNET\Desktop\Solar System 4\Solar System\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\erobinet.CMCNET\Desktop\Solar System 4\Solar System\obj\Debug\Solar_System.Form1.resources
+C:\Documents and Settings\erobinet.CMCNET\Desktop\Solar System 4\Solar System\obj\Debug\Solar_System.Properties.Resources.resources
+C:\Documents and Settings\erobinet.CMCNET\Desktop\Solar System 4\Solar System\obj\Debug\Solar System.csproj.GenerateResource.Cache
+C:\Documents and Settings\erobinet.CMCNET\Desktop\Solar System 5\Solar System\obj\Debug\Solar System.exe
+C:\Documents and Settings\erobinet.CMCNET\Desktop\Solar System 5\Solar System\obj\Debug\Solar System.pdb
+C:\Documents and Settings\erobinet.CMCNET\Desktop\Solar System 5\Solar System\bin\Debug\Solar System.exe
+C:\Documents and Settings\erobinet.CMCNET\Desktop\Solar System 5\Solar System\bin\Debug\Solar System.pdb
+C:\Documents and Settings\erobinet.CMCNET\Desktop\Solar System 5\Solar System\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\erobinet.CMCNET\Desktop\Solar System 5\Solar System\obj\Debug\Solar_System.Form1.resources
+C:\Documents and Settings\erobinet.CMCNET\Desktop\Solar System 5\Solar System\obj\Debug\Solar_System.Properties.Resources.resources
+C:\Documents and Settings\erobinet.CMCNET\Desktop\Solar System 5\Solar System\obj\Debug\Solar System.csproj.GenerateResource.Cache
+Y:\Robinette\CS172 Fall 2008\Solar System 5\Solar System\obj\Debug\Solar System.exe
+Y:\Robinette\CS172 Fall 2008\Solar System 5\Solar System\obj\Debug\Solar System.pdb
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 5\Solar System\obj\Debug\Solar System.exe
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 5\Solar System\obj\Debug\Solar System.pdb
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 5\Solar System\bin\Debug\Solar System.exe
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 5\Solar System\bin\Debug\Solar System.pdb
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 5\Solar System\obj\Debug\ResolveAssemblyReference.cache
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 5\Solar System\obj\Debug\Solar_System.Form1.resources
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 5\Solar System\obj\Debug\Solar_System.Properties.Resources.resources
+\\eagles\classes\robinette\CS172 Fall 2008\Solar System 5\Solar System\obj\Debug\Solar System.csproj.GenerateResource.Cache
+Y:\Robinette\CS172 Fall 2008\Solar System 5\Solar System\bin\Debug\Solar System.exe
+Y:\Robinette\CS172 Fall 2008\Solar System 5\Solar System\bin\Debug\Solar System.pdb
+Y:\Robinette\CS172 Fall 2008\Solar System 5\Solar System\obj\Debug\ResolveAssemblyReference.cache
+Y:\Robinette\CS172 Fall 2008\Solar System 5\Solar System\obj\Debug\Solar_System.Form1.resources
+Y:\Robinette\CS172 Fall 2008\Solar System 5\Solar System\obj\Debug\Solar_System.Properties.Resources.resources
+Y:\Robinette\CS172 Fall 2008\Solar System 5\Solar System\obj\Debug\Solar System.csproj.GenerateResource.Cache

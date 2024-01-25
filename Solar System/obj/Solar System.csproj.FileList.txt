@@ -1,0 +1,8 @@
+obj\Debug\Solar System.exe
+obj\Debug\Solar System.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Solar_System.Form1.resources
+obj\Debug\Solar_System.Properties.Resources.resources
+obj\Debug\Solar System.csproj.GenerateResource.Cache
+bin\Debug\Solar System.exe
+bin\Debug\Solar System.pdb
